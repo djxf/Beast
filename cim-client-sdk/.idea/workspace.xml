@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04eddcc3-7421-4308-9205-110aa7d3651c" name="Default Changelist" comment="" />
+    <list default="true" id="db11eb06-b778-47bb-9348-9f0dac4ac571" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules/cim.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/cim-client-sdk.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cim-android-sdk/cim-android-sdk.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cim-android-sdk/cim-android-sdk.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cim-java-sdk/cim-java-sdk.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cim-java-sdk/cim-java-sdk.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cim-use-examples/cim-client-android/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../cim-use-examples/cim-client-android/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cim-use-examples/cim-client-android/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cim-use-examples/cim-client-android/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cim-use-examples/cim-client-android/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cim-use-examples/cim-client-android/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cim-use-examples/cim-client-android/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cim-use-examples/cim-client-android/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cim-use-examples/cim-client-android/app/src/main/java/com/farsunset/ichat/example/app/Constant.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cim-use-examples/cim-client-android/app/src/main/java/com/farsunset/ichat/example/app/Constant.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,36 +31,44 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
-  <component name="ProjectId" id="1eWPY2i4aHwLXLXLL2yHHjU4bvH" />
+  <component name="ProjectId" id="1kJFalQqv065anrwHPec5VFl0HP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../../AndroidSDK" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cim-use-examples/cim-client-android" />
+    <property name="project.structure.last.edited" value="SDK Location" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="04eddcc3-7421-4308-9205-110aa7d3651c" name="Default Changelist" comment="" />
-      <created>1594434419483</created>
+      <changelist id="db11eb06-b778-47bb-9348-9f0dac4ac571" name="Default Changelist" comment="" />
+      <created>1605410852341</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1594434419483</updated>
-      <workItem from="1594434420828" duration="56000" />
+      <updated>1605410852341</updated>
     </task>
     <servers />
   </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+  <component name="WindowStateProjectService">
+    <state x="176" y="116" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605410931026">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="176" y="116" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.920@0.0.1440.920" timestamp="1605410931026" />
+    <state x="501" y="202" key="FileChooserDialogImpl" timestamp="1605411184410">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="501" y="202" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1605411184410" />
   </component>
 </project>
